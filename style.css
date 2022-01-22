@@ -1,0 +1,28 @@
+body {
+    background-color: #008080;
+}
+
+main {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    background: #20B2AA;
+    padding:20px;
+    border: 1px solid #2F4F4F;
+    width: 370px;;
+    text-align:center;
+    font-weight: bold;
+}
+
+.input {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label, input, button {
+    margin-top: 10px;
+}
+
+.result {
+    margin-top: 10px;
+}
